@@ -1,0 +1,1 @@
+{"Rods": {"1": {"Length": 1, "Area": 1.0, "Elastic modulus": 1.0, "Allowable stress": 1.0}, "2": {"Length": 1, "Area": 1.0, "Elastic modulus": 1.0, "Allowable stress": 1.0}}, "Stopps": "Both", "Rod loads": {"1": 1, "2": -1}, "Nodal loads": {}}
